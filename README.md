@@ -22,5 +22,9 @@ Player wins if they reduce all the enemy's (or enemies') heath to 0 first.
 Enemies win if they reduce the player's health to 0 first.
 # Example:
 1 Player - 2 Enemies
+
 It will go:
-Player -> Enemy1 -> Enemy2 -> Round 1 Completed. Player -> Enemy1 -> Enemy2 -> Round 2 Completed. So on and so forth.
+
+Player -> Enemy1 -> Enemy2 -> Round 1 Completed. 
+
+Player -> Enemy1 -> Enemy2 -> Round 2 Completed. So on and so forth.
