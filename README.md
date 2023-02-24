@@ -16,10 +16,15 @@ This is taking inspiration from Wizard101 from Kingisle... just without the cool
 
 # Rules
 Player will always go first.
+
 Player/Enemy can only play one card per round.
+
 Spawn in with 5 random cards, out of a class picked deck. (Each deck is different)
+
 Player wins if they reduce all the enemy's (or enemies') heath to 0 first.
+
 Enemies win if they reduce the player's health to 0 first.
+
 # Example:
 1 Player - 2 Enemies
 
