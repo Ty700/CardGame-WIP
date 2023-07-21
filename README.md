@@ -1,4 +1,4 @@
-# CardGame-WIP
+# CardGame-Put on Hold
 This is a side project that I am doing that is essentially a CMD line battle against AI using cards. 
 This is taking inspiration from Wizard101 from Kingisle... just without the cool user interface. I know... what a bummer.
 
